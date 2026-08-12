@@ -1,3 +1,5 @@
+> **Archived.** Not under active development.
+
 # rustfm
 
 A fast and lightweight Rust file manager with an integrated terminal. Manage files and execute commands all in one place.
